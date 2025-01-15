@@ -4,7 +4,7 @@ package extends_constructor;
 public class Test { //一个.java文件里只能有一个public的类，并且类名必须跟文件名相同
     public static void main(String[] args) {
         S s = new S();
-        S s1 = new S(1);
+        S s1 = new S(2);
     }
 }
 //创建父类

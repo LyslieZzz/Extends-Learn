@@ -5,7 +5,7 @@ public class Test {
 MyArrayList<String> ele = new MyArrayList<>();
         ele.add("zwy");
         ele.add("Electronic Commerce");
-        ele.add("Computer Science");
+        ele.add("Computer Science Admitted");
         ele.add("Data Science");
         String a = ele.get(2);//根据索引提取ele中的值
         System.out.println(a);
